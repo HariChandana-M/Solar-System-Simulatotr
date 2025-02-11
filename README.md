@@ -1,2 +1,2 @@
-# Solar-System-Simulatotr
+# Solar-System-Simulator
 This project simulates the motion and orbits of celestial bodies in a solar system-like environment using Newtonian gravitational physics. The simulation leverages the Pygame library to visualize the Sun, planets, and randomly generated background stars. Bodies interact through gravitational forces, with their positions and velocities updated dynamically. The orbits are tracked and rendered in real-time, offering an engaging visual representation of planetary dynamics. The simulator also allows toggling between pause and run states for user interaction.
